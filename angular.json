@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appointment-app"
+    }
+  },
+  "defaultProject": "appointment-app",
+  "cli": {
+    "analytics": false
+  }
 }
